@@ -60,7 +60,7 @@ We map a strategy, build a solution or elevate your product experience with focu
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xperturesolutions&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-![](https://github-readme-stats.vercel.app/api?username=Xperture Solutions&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=xperturesolutions&show_icons=true&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=xperturesolutions&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -120,5 +120,6 @@ We map a strategy, build a solution or elevate your product experience with focu
 </table> 
 <hr> 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperturesolutions&" alt="Xperture Solutions" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperturesolutions&" alt="xperture solutions" /></p> -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xperturesolutions&theme=gotham)](https://git.io/streak-stats)
