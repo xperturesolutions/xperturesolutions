@@ -21,12 +21,12 @@ We are a team of seasoned technology specialists who are capable of envisioning 
 ### Design & Innovation
 - Website Design
 - Graphic Design
+- Power BI Solutions
 ### Development
 - E-Commerce solutions
 - Enterprise App Development
 - Mobile application development
-- Asp.Net Development
-- Laravel development
+- Asp.Net Development 
 - CMS development
 - Agile software development
 - MVP development
